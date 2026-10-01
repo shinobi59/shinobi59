@@ -2,7 +2,7 @@
 
 **QA Engineer → AQA Engineer (Python)**
 
-Пишу автотесты на Python. Изучаю API- и UI-автоматизацию, строю фреймворки с CI/CD.
+Пишу автотесты на Python. Разрабатываю автотесты на Python. API-автоматизация, CI/CD, Allure.
 
 ## 🛠 Стек
 
