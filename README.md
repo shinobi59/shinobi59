@@ -1,16 +1,26 @@
-## Hi there 👋
+# Привет, я Максим 👋
 
-<!--
-**shinobi59/shinobi59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**QA Engineer → AQA Engineer (Python)**
 
-Here are some ideas to get you started:
+Пишу автотесты на Python. Изучаю API- и UI-автоматизацию, строю фреймворки с CI/CD.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Стек
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
+![Requests](https://img.shields.io/badge/requests-2CA5E0?style=flat&logo=python&logoColor=white)
+![Allure](https://img.shields.io/badge/Allure-FF6600?style=flat&logo=allure&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+## 📂 Проекты
+
+### [restful-booker-tests](https://github.com/shinobi59/restful-booker-tests)
+Фреймворк API-тестов для Restful Booker: Python + pytest + requests + Allure + CI/CD.
+[![Tests](https://github.com/shinobi59/restful-booker-tests/actions/workflows/tests.yml/badge.svg)](https://github.com/shinobi59/restful-booker-tests/actions/workflows/tests.yml)
+[![Allure](https://img.shields.io/badge/Allure-Report-brightgreen)](https://shinobi59.github.io/restful-booker-tests/)
+
+## 📫 Связаться со мной
+
+- Telegram: [@your_username](https://t.me/your_username)
+- Email: your@email.com
