@@ -22,5 +22,5 @@
 
 ## 📫 Связаться со мной
 
-- Telegram: [@your_username](https://t.me/your_username)
-- Email: your@email.com
+- Telegram: [@idontcarePNG](https://t.me/idontcarePNG)
+- Email: khodarchenko05@mail.ru
