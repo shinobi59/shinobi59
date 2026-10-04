@@ -20,6 +20,9 @@
 [![Tests](https://github.com/shinobi59/restful-booker-tests/actions/workflows/tests.yml/badge.svg)](https://github.com/shinobi59/restful-booker-tests/actions/workflows/tests.yml)
 [![Allure](https://img.shields.io/badge/Allure-Report-brightgreen)](https://shinobi59.github.io/restful-booker-tests/)
 
+### [dummyjson-tests](https://github.com/shinobi59/dummyjson-tests)
+В процессе разработки
+
 ## 📫 Связаться со мной
 
 - Telegram: [@idontcarePNG](https://t.me/idontcarePNG)
