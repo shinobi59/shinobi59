@@ -21,7 +21,7 @@
 [![Allure](https://img.shields.io/badge/Allure-Report-brightgreen)](https://shinobi59.github.io/restful-booker-tests/)
 
 ### [dummyjson-tests](https://github.com/shinobi59/dummyjson-tests)
-В процессе разработки
+Фреймворк API-тестов для Dummyjson: Python + pytest + requests + Allure + CI/CD.
 
 ## 📫 Связаться со мной
 
