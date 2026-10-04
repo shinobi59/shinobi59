@@ -22,6 +22,8 @@
 
 ### [dummyjson-tests](https://github.com/shinobi59/dummyjson-tests)
 Фреймворк API-тестов для Dummyjson: Python + pytest + requests + Allure + CI/CD.
+[Tests](https://github.com/shinobi59/dummyjson-tests/actions/workflows/tests.yml/badge.svg)](https://github.com/shinobi59/dummyjson-tests/actions/workflows/tests.yml)
+[![Allure Report](https://img.shields.io/badge/Allure-Report-brightgreen)](https://shinobi59.github.io/dummyjson-tests/)
 
 ## 📫 Связаться со мной
 
